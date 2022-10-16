@@ -1,5 +1,5 @@
 # openvpn-openwrt-tutorial
-For reference from the video I made at &lt;insert link here when it uploads on 2022-08-30>
+For reference from the video I made at https://www.youtube.com/watch?v=UVNOy_GOzFE
 
 ## What are all these files?
 - `20220830-initial-openwrt-setup.tar.gz`: An archive of the OpenWRT router after following Van Tech Corner's video
